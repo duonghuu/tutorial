@@ -1,1 +1,2 @@
 hm file B
+hm edit file B
