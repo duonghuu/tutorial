@@ -1,0 +1,3 @@
+hm file B
+hm edit file B
+wr edit file B
